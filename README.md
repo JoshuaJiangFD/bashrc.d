@@ -5,11 +5,7 @@ bashrc.d collects some alias, path, ps1, and editor definitions
 
 ###Setup
 
-1. Clone the repo to your $HOME directory:
-<pre><code>
-cd ~
-git clone <git url> .bashrc.d 
-</code></pre>
+1. Clone the repo to your $HOME directory
 2. Append the following content to your ~/.bashrc
 <pre><code>
 OS=$( uname | tr '[:upper:]' '[:lower:]')
