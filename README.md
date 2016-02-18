@@ -42,3 +42,5 @@ brew install xz coreutils
 gdircolors --print-database > ~/.bashrc.d/darwin/.dir_colors
 </code></pre>
 
+###Credit
+This project is origniated from this project: [https://github.com/kaihualee/bashrc.d](https://github.com/kaihualee/bashrc.d).
